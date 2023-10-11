@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  transition: 0.1s;
+}
+
+svg {
+  cursor: pointer;
+}
+
+.trash {
+  fill: white;
+}
+
+.trash:hover {
+  fill: #af3c3c;
+}
+
+.edit:hover {
+  fill: gold;
+}
+
+.modal-content {
+  background: none !important;
+}
