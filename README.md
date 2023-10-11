@@ -39,7 +39,7 @@ Filter tasks
 - Check the necessary option
   </br>
 
-<img width=600 src="https://img001.prntscr.com/file/img001/VeI87ccLS_Cb38aEP2BTHQ.png">
+<img width=600 src="https://img001.prntscr.com/file/img001/Yc8gZuQTRh2gtybMGT-8fg.png">
 
 <h3>Try it Yourself</h3>
 
