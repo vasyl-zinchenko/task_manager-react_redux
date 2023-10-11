@@ -13,8 +13,8 @@ import {
 import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
 import { ModalWindow } from "./ModalWindow";
-import { Colors, checkedStyle } from "../types/enums";
 import { Task } from "../types/models";
+import { Colors, checkedStyle } from "../types/enums";
 
 interface Props {
   task: Task;
