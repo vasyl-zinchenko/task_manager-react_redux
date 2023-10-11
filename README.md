@@ -1,6 +1,6 @@
 <h2>Todo app</h2>
 
-[DEMO LINK](https://vasyl-zinchenko.github.io/task_manager-react_redux)
+[DEMO LINK](https://melodic-seahorse-eb0b58.netlify.app/)
 
 ---
 
