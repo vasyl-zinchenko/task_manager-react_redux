@@ -22,12 +22,11 @@ Here you can:
 ✏️ Edit the task:
 
 - Click the pencil icon.
-- To cancel editing, click the "X" icon, press the "Cancel" button or click anywhere outside the task.
   </br>
 
 💾 Save the task:
 
-- After editing the task, click the "Save" button.
+- After editing or adding the task, click the "Save" button.
   </br>
 
 🗑️ Delete the task
