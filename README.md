@@ -1,27 +1,53 @@
-# React + TypeScript + Vite
+<h2>Todo app</h2>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+[DEMO LINK](https://vasyl-zinchenko.github.io/task_manager-react_redux)
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
 
-## Expanding the ESLint configuration
+- <img width=20 height=20 src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png">&nbsp;&nbsp;&nbsp;React
+- <img width=20 height=20 src="https://cdn.worldvectorlogo.com/logos/redux.svg">&nbsp;&nbsp;&nbsp;Pinia
+- <img width=20 height=20 src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png">&nbsp;&nbsp;&nbsp; TypeScript
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+---
 
-- Configure the top-level `parserOptions` property like this:
+Here you can:
 
-```js
-   parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-   },
-```
+➕ Add a new task:
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+- Click the "Add" button or press.
+  </br>
+
+✏️ Edit the task:
+
+- Click the pencil icon.
+- To cancel editing, click the "X" icon, press the "Cancel" button or click anywhere outside the task.
+  </br>
+
+💾 Save the task:
+
+- After editing the task, click the "Save" button.
+  </br>
+
+🗑️ Delete the task
+
+- Click the delete icon.
+
+Filter tasks
+
+- Check the necessary option
+  </br>
+
+<img width=600 src="https://img001.prntscr.com/file/img001/VeI87ccLS_Cb38aEP2BTHQ.png">
+
+<h3>Try it Yourself</h3>
+
+- clone the forked repo to be running
+- open the project
+
+Then open a new terminal and enter:
+
+1. cd task_manager-react_redux
+2. npm i
+3. npm run dev
